@@ -40,7 +40,7 @@ a:hover { color: #ffcc66 }
     a { color: #c8c8c8; text-decoration: underline; }
 
 
-a:hover { color: #1c1c1c; text-decoration: underline; }
+.style1:hover { color: #1c1c1c; text-decoration: underline; }
 
 
 }
