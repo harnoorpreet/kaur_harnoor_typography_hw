@@ -37,16 +37,24 @@ a { color: #ff9900; background: #fff4a3; text-decoration: none; }
 a:hover { color: #e1ec40 }
 
 .style1 {
-    a { color: #c8c8c8; text-decoration: underline; }
+     color: #c8c8c8;
+      text-decoration: underline;
+     }
 
 
-.style1:hover { color: #1c1c1c; text-decoration: underline; }
+.style1:hover { 
+    color: #1c1c1c; 
+    text-decoration: underline; }
 
 
-}
+
 .style2 {
-    a { color: #fe921f; text-decoration: underline; }
+      color: palevioletred; 
+      text-decoration: underline;
+     }
 
 
-.style2:hover { color: #ffffff }
-}
+.style2:hover { 
+    color: paleturquoise;
+    text-decoration: underline;
+ }
