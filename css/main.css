@@ -58,3 +58,29 @@ a:hover { color: #e1ec40 }
     color: paleturquoise;
     text-decoration: underline;
  }
+
+ .style3 {
+     background: #fff;
+      color: #222;
+       text-decoration: none;
+     }
+
+ .style3:hover {
+    background: #F90B6D;
+     color: #eee;
+      text-decoration: none;
+ }
+
+ .style4 {
+    color: #CEF0D4;
+     text-decoration: underline;
+     }
+
+
+.style4:hover {
+     color: #a7e8f8;
+      text-decoration: underline;
+     }
+ 
+
+ 
